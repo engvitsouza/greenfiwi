@@ -188,5 +188,20 @@ month={Aug},}
 author={P. Öhlén, B. Skubic, A. Rostami, K. Laraqui, F. Cavaliere, B. Varga, N. Fonseca, Lindqvist 
 },
 title={Flexibility in 5G transport networks: The key to meeting the demand for connectivity},
-year={2015},
-month={Oct}}
+year={2010},
+volume={28},
+number={16},
+pages={2219-2229},
+keywords={broadband networks;environmental factors;integer programming;linear programming;optical 
+fibre networks;protocols;radio access networks;Internet energy consumption;MILP 
+model;WOBAN;bit-rate 
+requirements;dynamic traffic profiles;energy-aware design;energy-aware protocols;energy-saving 
+techniques;green wireless-optical broadband access network;mixed integer linear program 
+model;numerical examples;Access protocols;Business;Communications technology;Energy 
+consumption;Energy efficiency;IP networks;Land mobile radio cellular systems;Performance 
+analysis;Telecommunication traffic;Traffic 
+control;Access;green;hybrid;network;wireless-optical;wireless-optical broadband access network 
+(WOBAN)},
+doi={10.1109/JLT.2010.2044369},
+ISSN={0733-8724},
+month={Aug},}
